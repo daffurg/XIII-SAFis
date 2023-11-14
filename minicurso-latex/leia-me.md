@@ -12,4 +12,4 @@
 
 ---
 
-![alt text](./resumo_minicurso_latex.jpg?raw=true)
+![alt text](../banners-evento/resumo_minicurso_latex.jpg?raw=true)
