@@ -5,7 +5,10 @@
 ---
 
 ### Material:
-* [Slide 01](./
+* [Modulo I - O básico + Textos](./slides/MINICURSO_LaTeX_1.pdf)
+* [Modulo II - Ambientes + Figuras](./slides/MINICURSO_LaTeX_2.pdf)
+* [Modulo III - Tabelas + Referencias](./slides/MINICURSO_LaTeX_3.pdf)
+* [Modulo IV - Outros templates!](./slides/MINICURSO_LaTeX_4.pdf)
 
 ---
 
